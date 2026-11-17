@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <maths.h>
+int main()
+{
+int a=5;
+inr b=45;
+int add,mul,sub,div;
+add=a+b;
+sub=a-b;
+mul=a*b;
+div=a/b;
+X
